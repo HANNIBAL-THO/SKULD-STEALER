@@ -1,9 +1,9 @@
-<h1 align="center">Skuld Stealer</h1>
+<h1 align="center">SKULD STEALER</h1>
 <p align="center">
     <img src="/assets/avatar.png" width=100  >
 </p>
 
-<h1 align="center">Skuld Stealer</h1>
+<h1 align="center">TODO HACK OFFICIAL</h1>
 
 <p align="center">Malware escrito en Go dirigido a sistemas Windows, que extrae datos de usuario de Discord, navegadores, billeteras crypto y más, de cada usuario en cada disco. (PoC. Solo con fines educativos)</p>
 
