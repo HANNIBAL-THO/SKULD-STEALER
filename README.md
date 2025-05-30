@@ -180,22 +180,12 @@ Puedes hacerlo ejecutando este [script .bat](https://github.com/TairikuOokami/Wi
 
 También puedes apoyar el desarrollo de este proyecto dejando una estrella ⭐ o haciéndome una donación. ¡Cada pequeña ayuda cuenta!
 
-<a href='https://ko-fi.com/hackirby'><img src='/assets/kofi.png' width=150></a>
-
 ## Licencia
 Esta biblioteca se publica bajo la Licencia MIT. Ver archivo LICENSE para más información.
 
 ## Contacto
 Si tienes alguna pregunta o necesitas ayuda adicional, por favor contacta a [@hackirby:matrix.org
-](https://matrix.to/#/@hackirby:matrix.org)
-
-## Agradecimientos
-Este proyecto ha sido grandemente influenciado por numerosos infostealers disponibles en GitHub. Muchas funciones y rutas sensibles se han derivado de repositorios públicos. Mi objetivo era innovar creando algo nuevo con código de proyectos existentes. Extiendo mi gratitud a todos aquellos cuyo trabajo ha contribuido a este stealer, especialmente
-- [FallenAstaroth](https://github.com/FallenAstaroth/stink) por la extracción de datos de navegadores sin archivos temporales
-- [ᴍᴏᴏɴD4ʀᴋ](https://github.com/moonD4rk/HackBrowserData) por la desencriptación de datos de navegadores
-- [addi00000](https://github.com/addi00000/empyrean) por el diseño de embeds de Discord
-- [Blank-c](https://github.com/Blank-c/Blank-Grabber) por funciones relacionadas con antivirus y más
-- [6nz](https://github.com/6nz/virustotal-vm-blacklist) por las listas negras de antivm
+](https://discord.gg/tfRuSC52Da)
 
 ## Descargo de Responsabilidad
 
@@ -213,7 +203,7 @@ El creador (hackirby) de esta herramienta no será considerado responsable por d
 
 ### Sin Soporte:
 
-El creador (hackirby) no proporcionará ningún soporte, guía o asistencia relacionada con el mal uso de esta herramienta. Cualquier consulta relacionada con actividades maliciosas será ignorada.
+El creador (HANNIBAL THO) no proporcionará ningún soporte, guía o asistencia relacionada con el mal uso de esta herramienta. Cualquier consulta relacionada con actividades maliciosas será ignorada.
 
 ### Aceptación de Términos:
 
