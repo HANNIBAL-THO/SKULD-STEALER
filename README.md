@@ -1,6 +1,4 @@
-
-<br>
-
+<h1 align="center">Skuld Stealer</h1>
 <p align="center">
     <img src="/assets/avatar.png" width=100  >
 </p>
