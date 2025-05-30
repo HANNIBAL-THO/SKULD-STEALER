@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://github.com/hackirby/skuld/network/members"><img src="https://img.shields.io/github/forks/hackirby/skuld.svg?style=for-the-badge&color=b143e3" alt="Forks"></a>
-<a href="https://github.com/hackirby/skuld/stargazers"><img src="https://img.shields.io/github/stars/hackirby/skuld.svg?style=for-the-badge&color=b143e3" alt="Stargazers"></a>
-<a href="https://github.com/hackirby/skuld/issues"><img src="https://img.shields.io/github/issues/hackirby/skuld.svg?style=for-the-badge&color=b143e3" alt="Issues"></a>
-<a href="https://github.com/hackirby/skuld/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hackirby/skuld.svg?style=for-the-badge&color=b143e3" alt="MIT License"></a>
-</div>
 
 <br>
 
