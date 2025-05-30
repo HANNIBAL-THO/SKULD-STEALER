@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/avatar.png" width=100  >
+    <img src="/assets/avatar.png" width=100  >
 </p>
 
 <h1 align="center">Skuld Stealer</h1>
@@ -134,19 +134,19 @@ func main() {
 
 ## Vista Previa
 
-![](.assets/system.png)
+![Vista del sistema](/assets/system.png)
 
-![](.assets/browsers.png)
+![Vista de navegadores](/assets/browsers.png)
 
-![](.assets/token.png)
+![Vista de token](/assets/token.png)
 
-![](.assets/discodes.png)
+![Vista de discodes](/assets/discodes.png)
 
-![](.assets/wallets.png)
+![Vista de wallets](/assets/wallets.png)
 
-![](.assets/games.png)
+![Vista de games](/assets/games.png)
 
-![](.assets/codes.png)
+![Vista de codes](/assets/codes.png)
 
 
 ## Eliminar
@@ -180,7 +180,7 @@ Puedes hacerlo ejecutando este [script .bat](https://github.com/TairikuOokami/Wi
 
 También puedes apoyar el desarrollo de este proyecto dejando una estrella ⭐ o haciéndome una donación. ¡Cada pequeña ayuda cuenta!
 
-<a href='https://ko-fi.com/hackirby'><img src='assets/kofi.png' width=150></a>
+<a href='https://ko-fi.com/hackirby'><img src='/assets/kofi.png' width=150></a>
 
 ## Licencia
 Esta biblioteca se publica bajo la Licencia MIT. Ver archivo LICENSE para más información.
