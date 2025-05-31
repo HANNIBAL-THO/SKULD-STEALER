@@ -86,7 +86,7 @@ git clone https://github.com/HANNIBAL-THO/SKULD-STEALER
 - Navegar al Directorio del Proyecto:
 
 ```bash
-cd skuld
+cd SKULD-STEALER
 ```
 
 ## Uso
