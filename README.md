@@ -81,7 +81,7 @@ Para instalar este proyecto usando Git, sigue estos pasos:
 - Clonar el Repositorio:
 
 ```bash
-git clone https://github.com/hackirby/skuld
+git clone https://github.com/HANNIBAL-THO/SKULD-STEALER
 ```
 - Navegar al Directorio del Proyecto:
 
